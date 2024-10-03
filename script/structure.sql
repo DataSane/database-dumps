@@ -1,5 +1,3 @@
-CREATE DATABASE datasane;
-
 USE datasane;
 
 CREATE TABLE user(
